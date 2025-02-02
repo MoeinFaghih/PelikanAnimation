@@ -24,7 +24,7 @@ OpenGL for rendering and animations
 
 🎥 Preview
 
-🚀 GIF or Screenshot Placeholder 🚀
+🚀 ![My awesome GIF](ezgif-5cb14c7f6bf1f.gif) 🚀
 
 🚀 Getting Started
 
